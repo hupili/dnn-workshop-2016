@@ -8,3 +8,5 @@
       * Demo Blog: http://hupilidemo.github.io/fany-blog/
       * From Silva: http://hupilidemo.github.io/HKBU/
    * [Ding Wen Demo](http://mozziegoround.github.io/mainpage/)
+  * [Huimin You](https://github.com/youhuimin)
+      * Demo Blog: http://youhuimin.github.io/peter-pan/
